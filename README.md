@@ -17,7 +17,7 @@
 - I'm actively seeking opportunities to gain experience in e-payment or cybersecurity. If you're hiring or would like to collaborate, feel free to [reach out](mailto:timeo.savary@ecole.ensicaen.fr)!
 
 ## Connect with Me:
-- 💼 **[LinkedIn](https://www.linkedin.com/in/TimeoSvry)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/timeosavary)**
 - 🌐 **[Portfolio](https://timeosvr.github.io)**
 - 📧 **[Email](mailto:timeo.savary@ecole.ensicaen.fr)**
 
